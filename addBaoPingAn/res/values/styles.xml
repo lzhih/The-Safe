@@ -1,0 +1,9 @@
+<resources>
+
+     <style name="AppTheme" parent="android:Theme.Light" >
+      <item name="android:windowBackground">@drawable/bizhi_2_2</item> 
+   		<item name="android:windowNoTitle">true</item> 
+	</style> 
+
+
+</resources>

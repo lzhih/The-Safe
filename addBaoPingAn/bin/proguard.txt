@@ -1,0 +1,19 @@
+# view res/layout/mapview.xml #generated:8
+-keep class com.amap.mapapi.map.MapView { <init>(...); }
+
+# view res/layout/main.xml #generated:2
+-keep class org.find.location.AnimationLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class org.find.location.LocationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class org.find.location.MyLocationOver { <init>(...); }
+
+# onClick res/layout/main.xml #generated:100
+# onClick res/layout/main.xml #generated:23
+# onClick res/layout/main.xml #generated:37
+# onClick res/layout/main.xml #generated:71
+# onClick res/layout/main.xml #generated:86
+-keepclassmembers class * { *** onClickContentButton(...); }
+

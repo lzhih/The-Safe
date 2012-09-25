@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">lvXingZhe</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">旅行者</string>
+    <string name="location">定位中，请等待...</string>
+    <string name="content">请输入信息内容：</string>
+	<string name="send">发送</string>
+	<string name="hello">请输入手机号码</string>
+	<string name="slider">添加通讯</string>
+	<string name="sender">发送</string>
+	<string name="text1">卫星定位  Just 1 s. MyLocation</string>
+
+</resources>
